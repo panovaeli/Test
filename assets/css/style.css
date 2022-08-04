@@ -1267,8 +1267,11 @@ hr {
         width: 180px;
         right: -80px;
     }
-
-
+/*services*/
+    
+.services__item {
+    padding: 59px 70px 59px 70px;
+}
     /* Reviews */
 
     /* Logos */
